@@ -5,7 +5,7 @@ I have done my Ph.D. from [School of Mathematical and Computer Sciences, Heriot-
 [![Visits Badge](https://badges.pufler.dev/visits/imranasif87/imranasif87)](https://github.com/imranasif87) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/imranasif87) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/imran-asif-phd/) [![ORCID Badge](https://img.shields.io/badge/ORCID-Profile-informational?style=flat&logo=orcid&logoColor=white&color=1CA2F1)](https://orcid.org/0000-0002-1144-6265)
 
 ## 📝 Latest Blog Posts
-- [SPARQL For Beginners](http://www.macs.hw.ac.uk/SWeL/author/ia48/)
+- [SPARQL For Beginners](https://inscriptiones.org/tutorial/sparql-for-beginners/)
 
 ## 📌 Pinned Repositories
 <a href="https://github.com/imranasif87/chatApp">
