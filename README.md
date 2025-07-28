@@ -7,7 +7,9 @@
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://imranasif87.github.io/imranasif87/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imranasif87)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imran-asif-phd)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-1144-6265)
+[![wikidata](https://img.shields.io/badge/Wikidata-006699?style=for-the-badge&logo=wikidata&logoColor=white)](https://www.wikidata.org/wiki/Q110138284)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikhimranasif@gmail.com)
 
 </div>
