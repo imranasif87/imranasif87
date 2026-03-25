@@ -261,7 +261,7 @@ I'm passionate about creating innovative solutions that make a real impact. Whet
 ### 🌐 **Available for:**
 **Full Stack Development • Mobile App Development • Web Scraping • API Development • Research Collaboration • Consulting**
 
-**📧 sheikhimranasif@gmail.com | 📱 +44-7466-965437**
+**📧 sheikhimranasif@gmail.com **
 
 </div>
 
